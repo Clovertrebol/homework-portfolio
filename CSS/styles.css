@@ -1,6 +1,6 @@
 body {
 	color: black;
-	font-size: 22px;
+	font-size: 18px;
 	font-family: verdana;
 	background: #1695CE url(../images/Metal-background-5.jpg);
 	margin: 30px;
@@ -30,6 +30,7 @@ nav {
 	opacity: .89;
 	margin-top: -50px;
 	border: #fff 4px;
+	border-radius: 1px;
 }
 hr {
 	border: none;
@@ -52,4 +53,15 @@ img {
 }
 img[alt] {
   float: right;
+}
+.footer {
+	text-align: center;
+	text-decoration: underline;
+	font-size: 22px;
+	background-color: #1695CE;
+	opacity: .89;
+	margin-top: -50px;
+	border: #fff 4px;
+	border-radius: 1px;
+}
 
